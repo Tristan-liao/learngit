@@ -4,3 +4,4 @@ creat a new branch
 hello
 switch to a new branch dev.
 try
+quick $ simple
